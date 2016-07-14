@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="MessApp">
+    <output-path>$PROJECT_DIR$/out/artifacts/MessApp</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="mess.Main" />
+        <option name="description" value="" />
+        <option name="height" value="300" />
+        <option name="htmlParamFile" value="" />
+        <option name="nativeBundle" value="image" />
+        <option name="paramFile" value="" />
+        <option name="title" value="MessApp" />
+        <option name="vendor" value="Matthias Kemmel" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="MessApp.jar">
+        <element id="module-output" name="MessApp" />
+      </element>
+    </root>
+  </artifact>
+</component>
